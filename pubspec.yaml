@@ -1,0 +1,39 @@
+name: flutter_integrate_firebase_appcheck
+description: Flutter Firebase Appcheck
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  bloc: ^8.1.1
+  cloud_firestore: ^4.0.4
+  equatable: ^2.0.5
+  firebase_app_check: ^0.1.1+12
+  firebase_core: ^2.1.1
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_localizations:
+    sdk: flutter
+  get_it: ^7.2.0
+  injectable: ^1.5.3
+  intl: ^0.17.0
+  json_annotation: ^4.7.0
+  
+  
+dev_dependencies:
+  bloc_test: ^9.1.1
+  build_runner: ^2.2.0
+  flutter_test:
+    sdk: flutter
+  injectable_generator: ^1.5.4
+  mocktail: ^0.3.0
+  very_good_analysis: ^4.0.0
+  
+  
+
+flutter:
+  uses-material-design: true
+  generate: true

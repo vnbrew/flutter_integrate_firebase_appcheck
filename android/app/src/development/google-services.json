@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "161231858044",
+    "project_id": "brain-hacking-auth",
+    "storage_bucket": "brain-hacking-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161231858044:android:05c0c49eb150d23c09dcf9",
+        "android_client_info": {
+          "package_name": "com.base.app.check.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161231858044-fabfhadcgva8hjek0olklujfigc71p6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWRtmM1SAMHlndI_6QRuRbY2MlidXJBVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161231858044-54d9gsn810m3urtsvf9nfabvopva0c8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "161231858044-3giqkuh7ipdcandk8lfo67442bd4h5h2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.base.app.check.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
